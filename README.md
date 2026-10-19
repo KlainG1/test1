@@ -1,7 +1,7 @@
 # test1
 
-<<<<<<< Updated upstream
+Updated upstream
 Программа выводит приветствие в консоль!
 =======
 Программа выводит приветствие в консоль!
->>>>>>> Stashed changes
+Stashed changes
